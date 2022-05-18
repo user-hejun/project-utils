@@ -1,0 +1,25 @@
+{
+  "name": "@common/utils",
+  "version": "1.0.0",
+  "description": "typescript utils",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user-hejun/project-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user-hejun/project-utils/issues"
+  },
+  "homepage": "https://github.com/user-hejun/project-utils#readme",
+  "dependencies": {
+    "global": "^4.4.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
