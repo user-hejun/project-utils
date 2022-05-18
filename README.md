@@ -1,2 +1,6 @@
 # project-utils
-typescript utils 
+typescript utils
+## utils
+*throttle*
+*debounce*
+*verify*
